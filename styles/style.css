@@ -185,7 +185,7 @@
   font-size: 120px;
   font-weight: bold;
   text-align: center;
-  margin: 0 auto; 
+  margin: 0 auto;
   width: 648px;  
 }
 
@@ -257,7 +257,7 @@ color: #ffffff;
 
 .footer {
   display: flex;
-  min-height: 350px;  
+  min-height: 350px;
   background-color: #000000;
   color: #ffffff;
   padding-top: 60px;
@@ -267,7 +267,7 @@ color: #ffffff;
 .footer__columns { 
   display: flex;
   width: 90%;
-  margin: 0px auto; 
+  margin: 0px auto;
   justify-content: space-between;
 }
 
