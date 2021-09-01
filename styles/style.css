@@ -186,8 +186,7 @@
   font-weight: bold;
   text-align: center;
   margin: 0 auto; 
-  width: 648px;
-  
+  width: 648px;  
 }
 
 .feynman__subtitle {
@@ -235,12 +234,10 @@ color: #ffffff;
 .table__theme_dark {
   position: relative;
   z-index: 1;
-
 }
 
 .table__text_theme_dark {
   color: #ffffff;
-
 }
 
 .table__heading_theme_dark {
