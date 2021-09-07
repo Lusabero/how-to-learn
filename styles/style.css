@@ -39,6 +39,7 @@
   vertical-align: center;
   padding: 64px;
   margin: 0;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -63,7 +64,7 @@
   position: absolute;
   bottom: 0px;
   right: 0px;
-  z-index: 2;
+  z-index: 1;
 }
 
 
@@ -75,7 +76,7 @@
   position: absolute;
   right: 0;
   top: 64px;
-  z-index: 1;
+  z-index: 0;
 }
 
 .description {
@@ -190,7 +191,7 @@
   font-weight: bold;
   text-align: center;
   margin: 0 auto;
-  width: 648px;  
+  width: 648px;
 }
 
 .feynman__subtitle {
@@ -231,7 +232,8 @@
 
 .section-title_theme_dark {
   color: #ffffff;
-
+  position: relative;
+  z-index: 2;
 }
 .section-subtitle_theme_dark {
 color: #ffffff;
