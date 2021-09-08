@@ -51,6 +51,7 @@
   left: 64px;
   bottom: 30px;
   margin: 0;
+  z-index: 2;
 }
 
 .header__link {
@@ -236,7 +237,9 @@
   z-index: 2;
 }
 .section-subtitle_theme_dark {
-color: #ffffff;
+  color: #ffffff;
+  position: relative;
+  z-index: 2;
 }
 
 .table_theme_dark {
