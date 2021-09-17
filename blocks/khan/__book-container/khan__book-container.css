@@ -1,5 +1,4 @@
 .khan__book-container {
     display: flex;
     flex-direction: row;
-    border: 3px solid rgb(0, 217, 255);
 }

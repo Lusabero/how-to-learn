@@ -1,6 +1,6 @@
 .khan {
-    /* width: 80%;
-    margin: auto; */
+    margin: 0;
+    padding-top: 105px;
+    padding-bottom: 0;
     background-color: #f2f2f2;
-    border: 3px solid rgb(187, 255, 0);
 }
