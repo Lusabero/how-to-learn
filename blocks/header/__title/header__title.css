@@ -5,7 +5,7 @@
     line-height: 96px;
     display: flex;
     vertical-align: center;
-    padding: 64px;
-    margin: 0;
+    margin: 0 0 0 64px;
+    padding: 0;
     z-index: 2;
 }
