@@ -1,4 +1,8 @@
 .logo {
     width: 183px;
-    height: 32px;
+    transition-duration: 5s;
+}
+
+.logo:hover {
+    opacity: 0.3;
 }
